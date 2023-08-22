@@ -1,0 +1,14 @@
+{
+  "firstName": "Souvik",
+  "lastName": "Shome",
+  "profession": "Software Tester",
+  "age": 30,
+  "salary": "40,000",
+  "address": {
+    "houseNo": "101",
+    "streetName": "Down Street",
+    "city": "NY",
+    "state": "Washington",
+    "country": "IN"
+  }
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-20T19:10:02 IST" name="All Test Suite" finished-at="2023-08-20T19:10:41 IST" duration-ms="38926">
+    <groups>
+    </groups>
+    <test started-at="2023-08-20T19:10:02 IST" name="C:/Personal_Learning/TestArchitect/SampleSeleniumTest/src/test/java/org/example/RemoteTestChrome.java" finished-at="2023-08-20T19:10:41 IST" duration-ms="38926">
+      <class name="org.example.RemoteTestFF">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:org.example.RemoteTestFF@5149d738]" started-at="2023-08-20T19:10:24 IST" name="browserSetup" finished-at="2023-08-20T19:10:30 IST" duration-ms="5677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="openGoogleInFirefox()[pri:0, instance:org.example.RemoteTestFF@5149d738]" started-at="2023-08-20T19:10:30 IST" name="openGoogleInFirefox" description="Open Google" finished-at="2023-08-20T19:10:33 IST" duration-ms="3398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogleInFirefox -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:org.example.RemoteTestFF@5149d738]" started-at="2023-08-20T19:10:33 IST" name="browserClose" finished-at="2023-08-20T19:10:34 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.example.RemoteTestFF -->
+      <class name="org.example.RemoteTestChrome">
+        <test-method is-config="true" signature="setupDocker()[pri:0, instance:org.example.RemoteTestChrome@75d3a5e0]" started-at="2023-08-20T19:10:02 IST" name="setupDocker" finished-at="2023-08-20T19:10:24 IST" duration-ms="21665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDocker -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:org.example.RemoteTestChrome@75d3a5e0]" started-at="2023-08-20T19:10:24 IST" name="browserSetup" finished-at="2023-08-20T19:10:27 IST" duration-ms="3456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="TestCase1()[pri:0, instance:org.example.RemoteTestChrome@75d3a5e0]" started-at="2023-08-20T19:10:27 IST" name="TestCase1" description="Open Google" finished-at="2023-08-20T19:10:29 IST" duration-ms="1868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:org.example.RemoteTestChrome@75d3a5e0]" started-at="2023-08-20T19:10:29 IST" name="browserClose" finished-at="2023-08-20T19:10:29 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="killDocker()[pri:0, instance:org.example.RemoteTestChrome@75d3a5e0]" started-at="2023-08-20T19:10:34 IST" name="killDocker" finished-at="2023-08-20T19:10:41 IST" duration-ms="7372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killDocker -->
+      </class> <!-- org.example.RemoteTestChrome -->
+    </test> <!-- C:/Personal_Learning/TestArchitect/SampleSeleniumTest/src/test/java/org/example/RemoteTestChrome.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
